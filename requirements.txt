@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.7
+
+# Optional: only needed when running with AI_PROVIDER=openai.
+# openai>=1.40
